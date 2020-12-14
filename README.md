@@ -2,7 +2,7 @@
 A CLI tool in Java that runs inference using published pre-trained LambdaNet model \w user-defined types. The tool receives a path to the pre-trained model, a path to the folder containing parsingFromFile.js (parsingFromFile.ts, pre-compiled with tsc) and all its dependencies (parsing.ts, etc.), and an input Typescript project folder as named CLI arguments and print the results to stdout. The output includes a specific line of code, a place in that line where the type suggestion should be added, Top5 most probable type suggestions.  
 
 ## How to use?    
-1. Download the zip file containing all the required JARs from here:  
+1. Download the zip file containing all the required JARs from here: https://drive.google.com/file/d/1GIpybi1s2aryDYtAKSG6ogRTHUY7jD7F/view?usp=sharing  
 2. Unzip the zip file at any location (let's say 'lib' folder in the current directory)  
 3. Download Driver.java from this repository and compile it using using the following command:  
 `javac -cp lib\* Driver.java`  
