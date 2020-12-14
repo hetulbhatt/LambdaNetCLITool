@@ -14,6 +14,6 @@ dir2 = Path to the scripts, i.e. a folder containing these: (https://github.com/
 dir3 = the TypeScript project directory, where all the TypeScript files, on which inference is to be run, are kept.  
 5. You'll get output as shown in the following image  
 
-<div align="center">
-  <img src="https://imgur.com/mpCcwDU" width="350" title="hover text">
-</div>
+![output](https://user-images.githubusercontent.com/32898119/102085515-c4769e00-3e3c-11eb-8636-55cc623f00c0.JPG)
+![tree](https://user-images.githubusercontent.com/32898119/102085519-c5a7cb00-3e3c-11eb-93e4-1dbbe8c76f46.JPG)
+
