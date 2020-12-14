@@ -11,7 +11,7 @@ A CLI tool in Java that runs inference using published pre-trained LambdaNet mod
 Here,  
 dir1 = Path to the model, i.e. ~\models\newParsing-GAT1-fc2-newSim-decay-6 in the folder extracted from models.zip which can be downloaded from:   https://drive.google.com/file/d/1NvEVQ4-5tC3Nc-Mzpu3vYeyEcaM_zEgV/view?usp=sharing  
 dir2 = Path to the scripts, i.e. a folder containing these: (https://github.com/MrVPlusOne/LambdaNet/tree/master/scripts/ts) files, don't forget to pre-compile parsingFromFile.ts to parsingFromFile.js using tsc command, if not already compiled.  
-dir3 = the TypeScript project directory, where all the TypeScript files, on which inference is to be run, are kept.  
+dir3 = the TypeScript project directory, where all the TypeScript files on which inference is to be run, are kept.  
 5. You'll get output as shown in the following image  
 
 ![output](https://user-images.githubusercontent.com/32898119/102085515-c4769e00-3e3c-11eb-8636-55cc623f00c0.JPG)  
