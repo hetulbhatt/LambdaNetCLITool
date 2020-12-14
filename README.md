@@ -14,4 +14,4 @@ dir2 = Path to the scripts, i.e. a folder containing these: (https://github.com/
 dir3 = the TypeScript project directory, where all the TypeScript files, on which inference is to be run, are kept.  
 5. You'll get output as shown in the following image  
 
-![alt text](https://imgur.com/mpCcwDU)
+[Imgur](https://imgur.com/mpCcwDU)
