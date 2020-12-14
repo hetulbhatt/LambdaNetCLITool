@@ -15,3 +15,5 @@ dir3 = the TypeScript project directory, where all the TypeScript files, on whic
 5. You'll get output as shown in the following image  
 
 ![Imgur](https://imgur.com/mpCcwDU)
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="mpCcwDU"><a href="https://imgur.com/mpCcwDU">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
